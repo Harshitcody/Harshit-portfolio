@@ -1,30 +1,3 @@
-# Indify - Free Portfolio Website Templates
-
-A simple template with a combination of white and indigo. 
-
-![Indify - Screenshot]("https://68c1583f12f352ec0a3bb27f--harshitwebio.netlify.app/")
-
-## Features
-
-✅ Fast
-
-✅ FREE
-
-✅ Mobile Responsive
-
-✅ SEO Friendly
-
-✅ Compatible with any web server
-
-## How to use
-
-1. Close or manually download the code.
-2. Open the `index.html` file in your browser.
-3. If everything looks good, upload it to your server.
-
-## I am not a web developer, how do I setup my portfolio website?
-
-> Need help with setting up your portfolio website?
+<img width="1046" height="614" alt="{C400F7EF-891F-46A8-B803-F8068C6A49F3}" src="https://github.com/user-attachments/assets/a13fcad4-97ba-499d-87d8-dfeebb1ea558" />
 
 
-Contact us at https://ossph.org
