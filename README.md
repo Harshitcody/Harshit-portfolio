@@ -2,7 +2,7 @@
 
 A simple template with a combination of white and indigo. 
 
-![Indify - Screenshot](./assets/img/portfolio-screenshot.png "Corners - Screenshot")
+![Indify - Screenshot]("https://68c1583f12f352ec0a3bb27f--harshitwebio.netlify.app/")
 
 ## Features
 
@@ -25,5 +25,6 @@ A simple template with a combination of white and indigo.
 ## I am not a web developer, how do I setup my portfolio website?
 
 > Need help with setting up your portfolio website?
+
 
 Contact us at https://ossph.org
